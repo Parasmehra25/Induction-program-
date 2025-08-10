@@ -1,3 +1,5 @@
+Parminder singh 
+B.tech EEB
 # 🎓 GNDEC Induction Program – Electrical Engineering (July–August 2025)
 
 This repository documents my experiences during the **GNDEC Induction Program**.  
